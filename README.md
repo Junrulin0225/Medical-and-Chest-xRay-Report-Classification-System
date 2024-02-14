@@ -10,7 +10,7 @@ After practicing the Netflix Genre Classification Project, I decided to apply th
 #### Workflow
 - Step 1: I cleaned the 17 missing data since their cancer type and text are both missing. I then converted cancer type into numeric form by using **function** and **if statement** instead of LabelEncoder to review some basic concepts of Python.
 
-- Step 2: Now it is time to clean dirty text! The steps for this are
+- Step 2: Now it is time to clean dirty text! The steps are
   1. covert all the characters to lowercase
   2. remove unwanted space and non-English characters
   3. tokenize the text into words

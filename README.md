@@ -20,7 +20,7 @@ After practicing the Netflix Genre Classification Project, I decided to apply th
   You can access the clean text example here 👉 **Text_after_cleaning.csv**
 
 
-- Step 3: One new thing I added this time is this cool figure- Word Cloud, where we can easily visualize the occurrence frequency of the words depending on their size. I would say this is the most fun thing I have added to this project :)
+- Step 3: One new thing I added this time is this cool figure **Word Cloud**, where we can easily visualize the occurrence frequency of the words depending on their size. I would say this is the most fun thing I have added to this project :)
   
 - Step 4: Again, after vectorizing the data, it is time to train the Naive Bayes classifier model and predict the outcome.
 

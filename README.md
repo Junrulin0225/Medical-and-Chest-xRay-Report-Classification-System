@@ -1,10 +1,18 @@
 #### Introduction
-Welcome to the **Medical Text Cancer Type Project**🗂️!
+Welcome to the **Medical & Chest x-Ray Report Project**🗂️!
 
-After practicing the Netflix Genre Classification Project, I decided to apply the NLTK skills to the project related to the medical report and my previous job. This project is to **predict what kind of cancer type it is using medical reports**. There are totally 3 cancer types we want to identify:
-- Thyroid cancer
-- Colon cancer
-- Lung cancer
+After practicing the Netflix Genre Classification Project, I decided to apply the NLTK skills to the project related to the medical report and my previous job. This project has 2 applications. The first one is
+
+- **Predict what kind of cancer type it is using medical reports**.
+
+  There are totally 3 cancer types we want to identify:
+  - Thyroid cancer
+  - Colon cancer
+  - Lung cancer
+
+ The second one is 
+ - **Predict whether this patient has abnormal lung or not using Chest X-Ray reports.**
+
 
 
 #### Workflow

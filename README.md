@@ -29,5 +29,5 @@ After practicing the Netflix Genre Classification Project, I decided to apply th
 The accuracy is 0.8. It is better than the Netflix Genre Classification Project. The medical text is long so I think more unnecessary words can be removed!
 
 
-#### Dataset used click here 👉
+#### Medical Text Dataset (since the file is too large) used click here 👉
 https://www.kaggle.com/datasets/falgunipatel19/biomedical-text-publication-classification/data

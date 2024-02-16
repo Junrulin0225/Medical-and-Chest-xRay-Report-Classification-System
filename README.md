@@ -17,7 +17,7 @@ After practicing the Netflix Genre Classification Project, I decided to apply th
   4. create the stopword list
   5. print out the new text without stopwords
   
-  You can access the clean text example here 👉 **Text_after_cleaning.csv**
+  You can access the clean text example here 👉 **Medical Text after cleaning.csv**
 
 
 - Step 3: One new thing I added this time is this cool figure **Word Cloud**, where we can easily visualize the occurrence frequency of the words depending on their size. I would say this is the most fun thing I have added to this project :)

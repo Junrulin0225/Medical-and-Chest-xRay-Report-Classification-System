@@ -1,5 +1,5 @@
 #### Introduction
-Welcome to the **Medical & Chest x-Ray Report System**🗂️!
+Welcome to the **Medical & Chest x-Ray Report Classification System**🗂️!
 
 After practicing the Netflix Genre Classification Project, I decided to apply the NLTK skills to the project related to the medical report and my previous job. This project has 2 applications. The first one is
 

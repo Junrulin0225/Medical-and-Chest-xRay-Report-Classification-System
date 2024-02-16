@@ -15,6 +15,8 @@ After practicing the Netflix Genre Classification Project, I decided to apply th
 
 
 
+
+
 #### Workflow
 - Step 1: I cleaned the 17 missing data from Medical Text since their cancer type and text are both missing. I then converted cancer type into numeric form by using **function** and **if statement** instead of LabelEncoder to review some basic concepts of Python.
 
@@ -39,6 +41,8 @@ After practicing the Netflix Genre Classification Project, I decided to apply th
 (From 👉 **Chest XRay Report.csv** row 11)
 
 My system can predict it is an 'abnormal' lung.
+
+
 
 
 
